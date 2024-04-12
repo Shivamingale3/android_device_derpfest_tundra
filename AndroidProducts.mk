@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2023 The AwakenOS Project
+# Copyright (C) 2024 DerpfestAOSP
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tundra.mk
+    $(LOCAL_DIR)/derp_tundra.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_tundra-user \
-    aosp_tundra-userdebug \
-    aosp_tundra-eng
+    derp_tundra-user \
+    derp_tundra-userdebug \
+    derp_tundra-eng
